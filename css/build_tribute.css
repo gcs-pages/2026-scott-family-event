@@ -287,6 +287,20 @@ li ol li:hover {
     border: 1px solid #000000;
 }
 
+#page-3-title-1 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#page-3-title-1-text
+{
+    background: #c2adeb;
+    font-size: 1.50em;
+    font-style: italic;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .first-caption {
     margin-top: 30px;
 }
