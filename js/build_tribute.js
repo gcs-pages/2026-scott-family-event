@@ -29,7 +29,7 @@ let tributeData =
 
                                 page_1_image: "images/2025-christmas-photo-1.jpg",
 
-                                page_1_caption: "<span id='page-1-figcaption-text'><strong><i>Enjoy God's Gifts . . .</i></strong></span>",
+                                page_1_caption: "<span id='page-1-figcaption-text'><strong><i>From All of Us to You . . .</i></strong></span>",
 
                                 page_2_title_1: "<span id='page-2-title-1-text'><strong><i>2026</i></strong></span>",
                                 
