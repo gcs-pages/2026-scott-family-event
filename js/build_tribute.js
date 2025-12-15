@@ -29,7 +29,7 @@ let tributeData =
 
                                 page_1_image: "images/2025-christmas-photo-1.jpg",
 
-                                page_1_caption: "<span id='page-1-figcaption-text'><strong><i>From All of Us to You . . .</i></strong></span>",
+                                page_1_caption: "<span id='page-1-figcaption-text'><strong><i>Enjoy God's Gifts . . .</i></strong></span>",
 
                                 page_2_title_1: "<span id='page-2-title-1-text'><strong><i>2026</i></strong></span>",
                                 
@@ -39,12 +39,16 @@ let tributeData =
 
                                 page_2_caption: "<span id='page-2-figcaption-text'><i><strong>Celebrate Safely & Responsibly . . .</i></strong></span>",
 
-                                page_3_title_1: "<span class='christmas-accent-color'><strong><i>Merry Christmas</i></strong></span>",
-                                
-                                page_3_title_2: "<span class='newyear-accent-color'><strong><i>Happy New Year</i></strong></span>",                           
-                                page_3_content: "<p><span><strong><i>As the song says . . .</i></strong></span>&nbsp;It's the most wonderful time of the year! &nbsp;With children jingle belling and everyone telling you, be of good cheer<strong>!</strong> &nbsp;Your mother <strong>Christine</strong> and me wish everyone in our family Merry Christmas, and that each of you be of good cheer. &nbsp;We also pray each of you have <strong><i>Peace</i></strong> on earth and <strong><i>goodwill</i></strong>.</p><p><strong><i>What are God's gifts?</i></strong> &nbsp;[<i>Galatians 5:22-23</i></span>] - But the fruits of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,  meekness, temperance: against such there is no law. &nbsp;We should all accept these gifts and practice them daily.</p>",
+                                page_3_title_1: "<br><span class='christmas-accent-color'><strong><i>What is Christmas?</i></strong></span>",
 
-                                page_3_content_2: "<p>Celebrate safely and responsibly, while bringing in the new year. &nbsp;We pray God bless each of us to be prosperous . . .</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><p><strong><i>Love</i></strong>,<br><br><strong><i>Mom/Dad</i></strong></p><div id='parent-photo-container'><img id='mom-photo' src='images/g02s07christine.jpg'alt='Mom Photo'><img id='dad-photo' src='images/g02s06gregory.jpg'alt='Dad Photo'></div><div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
+                                page_3_title_2: "<br><span class='christmas-accent-color'><strong><i>What Are God's Gifts?</i></strong></span>",
+                                
+                                page_3_title_3: "<br><span class='newyear-accent-color'><strong><i>About the New Year?</i></strong></span>",                           
+                                page_3_content_1: "<p>It's the most wonderful time of the year! &nbsp;With children jingle belling and everyone telling you, be of good cheer<strong>!</strong> &nbsp;We wish everyone in all our families Merry Christmas and that everyone be of good cheer. &nbsp;We pray our families have <strong><i>Peace</i></strong> and <strong><i>goodwill</i></strong> &nbsp;towards one another.</span></p><p>Take a moment to remember past Chrismases and dearly departed loved ones . . .</p>",
+
+                                page_3_content_2: "<p><strong><i>Galatians 5: [22-23]</i></strong> &nbsp;But the fruits of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,  meekness, temperance: against such there is no law.</p> <p>We should accept these gifts and practice them daily . . .</p>",
+
+                                page_3_content_3: "<p>It's a blessing to be part of God's plans for the new year. &nbsp;Take nothing for granted! &nbsp;Celebrate safely and responsibly.</p><p>We pray God bless our families to be prosperous . . . </p><br><br><br><br><br><br><br><br><br><br><p><strong><i>Sincerely</i></strong>,<br><br><strong><i>Dad/Mom</i></strong> &nbsp;<i>(Gregory and Christine)</i></p><div id='parent-photo-container'><img id='dad-photo' src='images/g02s06gregory.jpg'alt='Dad Photo'><img id='mom-photo' src='images/g02s07christine.jpg'alt='Mom Photo'></div><div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
 
                                 page_4_qr_code: "<p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><img id='qr-code' src='images/qr-code.png' alt='QR Code Image'>",
 
@@ -84,10 +88,14 @@ let tributeData =
     $("#page-3-title-1").html(tributeData[0].tributee[i].parameters.page_3_title_1);
     
     $("#page-3-title-2").html(tributeData[0].tributee[i].parameters.page_3_title_2);
+   
+    $("#page-3-title-3").html(tributeData[0].tributee[i].parameters.page_3_title_3);
 
-    $("#page-3-content").html(tributeData[0].tributee[i].parameters.page_3_content);
+    $("#page-3-content-1").html(tributeData[0].tributee[i].parameters.page_3_content_1);
 
     $("#page-3-content-2").html(tributeData[0].tributee[i].parameters.page_3_content_2);
+
+    $("#page-3-content-3").html(tributeData[0].tributee[i].parameters.page_3_content_3);
     
     $("#page-4-content").html(tributeData[0].tributee[i].parameters.page_4_qr_code);
 

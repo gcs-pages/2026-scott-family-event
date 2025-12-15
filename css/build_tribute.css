@@ -311,6 +311,21 @@ li ol li:hover {
     padding-right: 5px;
 }
 
+
+#page-3-title-3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#page-3-title-3-text
+{
+    background: #c2adeb;
+    font-size: 1.50em;
+    font-style: italic;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
 .first-caption {
     margin-top: 30px;
 }
@@ -417,7 +432,7 @@ footer {
     padding-right: 5px;
 }
 
-#mom-photo
+#dad-photo
  {
     width:  100px;
     height: 100px;
@@ -429,7 +444,7 @@ footer {
     float: left;
 }
 
-#dad-photo
+#mom-photo
  {
     width:  100px;
     height: 100px;
