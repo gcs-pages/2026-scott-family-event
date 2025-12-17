@@ -29,7 +29,7 @@ let tributeData =
 
                                 page_1_image: "images/2025-christmas-photo-1.jpg",
 
-                                page_1_caption: "<span id='page-1-figcaption-text'><strong><i>Enjoy God's Gifts . . .</i></strong></span>",
+                                page_1_caption: "<span id='page-1-figcaption-text'><strong><i>From All of Us to You . . .</i></strong></span>",
 
                                 page_2_title_1: "<span id='page-2-title-1-text'><strong><i>2026</i></strong></span>",
                                 
@@ -39,18 +39,18 @@ let tributeData =
 
                                 page_2_caption: "<span id='page-2-figcaption-text'><i><strong>Celebrate Safely & Responsibly . . .</i></strong></span>",
 
-                                page_3_title_1: "<br><span class='christmas-accent-color'><strong><i>What is Christmas?</i></strong></span>",
+                                page_3_title_1: "<br><span class='christmas-accent-color'><strong><i>Christmas?</i></strong></span>",
 
-                                page_3_title_2: "<br><span class='christmas-accent-color'><strong><i>What Are God's Gifts?</i></strong></span>",
+                                page_3_title_2: "<br><span class='christmas-accent-color'><strong><i>God's Gifts?</i></strong></span>",
                                 
-                                page_3_title_3: "<br><span class='newyear-accent-color'><strong><i>About the New Year?</i></strong></span>",                           
+                                page_3_title_3: "<br><span class='newyear-accent-color'><strong><i>The New Year?</i></strong></span>",                           
                                 page_3_content_1: "<p>It's the most wonderful time of the year! &nbsp;With children jingle belling and everyone telling you, be of good cheer<strong>!</strong> &nbsp;My wife and I wish everyone Merry Christmas and that everyone be of good cheer. &nbsp;We pray our families have <strong><i>Peace</i></strong> and <strong><i>goodwill</i></strong> &nbsp;towards one another.</span></p><p>Take a moment to remember past Chrismases and our dearly departed loved ones . . .</p>",
 
                                 page_3_content_2: "<p><strong><i>Galatians 5: [22-23]</i></strong> &nbsp;But the fruits of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,  meekness, temperance: against such there is no law.</p> <p>We should accept God's gifts and practice them daily . . .</p>",
 
-                                page_3_content_3: "<p><strong><i>1 Thessalonians 5: [18]</i></strong> &nbsp;In every thing give thanks: for this is the will of God in Christ Jesus concerning you. &nbsp;It's a blessing to be part of God's plans. &nbsp;Praise God and give thanks that you will be part of <i>His</i> plans for the new year. </p><p>Celebrate safely and responsibly. . . . </p><br><br><br><br><br><br><br><br><br><br><p><strong><i>Sincerely</i></strong>,<br><br><strong><i>Dad/Mom</i></strong> &nbsp;<i>(Gregory and Christine)</i></p><div id='parent-photo-container'><img id='dad-photo' src='images/g02s06gregory.jpg'alt='Dad Photo'><img id='mom-photo' src='images/g02s07christine.jpg'alt='Mom Photo'></div><div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
+                                page_3_content_3: "<p><strong><i>1 Thessalonians 5: [18]</i></strong> &nbsp;In every thing give thanks: for this is the will of God in Christ Jesus concerning you. Take nothing for granted! &nbsp;It's a blessing to be part of God's plans. &nbsp;Praise God and give thanks, that you will be part of <i>His</i> plans for the new year. </p><p>Celebrate safely and responsibly. . . . </p><br><br><br><br><br><br><br><br><br><br><p><strong><i>Sincerely</i></strong>,<br><br><strong><i>Gregory Sr and Christine</i></strong></p><div id='parent-photo-container'><img id='dad-photo' src='images/g02s06gregory.jpg'alt='Dad Photo'><img id='mom-photo' src='images/g02s07christine.jpg'alt='Mom Photo'></div><div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
 
-                                page_4_qr_code: "<p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><img id='qr-code' src='images/qr-code.png' alt='QR Code Image'>",
+                                page_4_qr_code: "<p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><img id='qr-code' src='images/qr-code.png' alt='QR Code Image'><div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
 
                                 author_salutation: "<div class='author-signature'><p>Created By:</p><img class='author-photo' src='images/g02s06gregory.jpg' alt='Author Photo'><p><i><span class='author'>Gregory Scott Sr.</i></span></p></div>"
                             }
