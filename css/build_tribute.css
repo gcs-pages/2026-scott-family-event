@@ -29,7 +29,7 @@ h2 {
 p {
     font-family: 'Open Sans', sans-serif;
   /*  font-family: 'Dancing Script', cursive; */
-    font-size: 20px;
+    font-size: 24px;
     line-height: 1.4;
     padding-left:    5px;
     padding-right:   5px;
@@ -168,7 +168,7 @@ ol,ul {
     font-weight: bold;
 }
 
-.christmas-accent-color {
+.christmas-red-color {
     font-size: 1.125em;
     text-shadow: 5px 5px 5px #000000;
     background-color: #cc0000;
@@ -188,10 +188,10 @@ ol,ul {
     padding-left: 5px;
     padding-right: 5px;
 }
-.newyear-accent-color {
+.christmas-green-color {
     font-size: 1.125em;
     text-shadow: 5px 5px 5px #000000;
-    background-color: #cc0000;
+    background-color: #2F7336;
     color: #ffffff;
     padding-left: 5px;
     padding-right: 5px;
