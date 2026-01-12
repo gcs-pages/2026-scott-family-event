@@ -33,7 +33,7 @@ p {
     line-height: 1.4;
     padding-left:    5px;
     padding-right:   5px;
-    }
+}
 
 a {
     color: black;
@@ -211,6 +211,13 @@ li {
     padding-bottom: .25em;
     margin-bottom:  .30em;
 }
+li {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.125em;
+    padding-left:    5px;
+    padding-right:   5px;
+}
+
 
 li ol li:hover {
     cursor: pointer;
@@ -256,8 +263,8 @@ li ol li:hover {
 }
 
 #page-2-title-1 {
-    margin-top: 15px;
-    margin-bottom: 7px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
@@ -277,6 +284,7 @@ li ol li:hover {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 15px;
+    display: none;
 }
 
 #page-2-title-2-text
@@ -430,9 +438,8 @@ footer {
 
 #page-2-figcaption-1 {
     text-align: center;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-bottom: 7px;
-
 }
 
 #page-2-figcaption-1-text {
@@ -449,6 +456,7 @@ footer {
 #page-2-figcaption-2 {
     text-align: center;
     margin-bottom: 15px;
+    display: none;
 }
 
 #page-2-figcaption-2-text {
@@ -490,7 +498,6 @@ footer {
     margin-bottom: 5px;
     aspect-ratio: 3 / 4;
     float: right;
-    display: none;
 }
 
 .text-center {
