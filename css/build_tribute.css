@@ -497,6 +497,7 @@ footer {
     margin-bottom: 5px;
     aspect-ratio: 3 / 4;
     float: right;
+    display: none;
 }
 
 .text-center {
