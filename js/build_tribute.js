@@ -31,13 +31,13 @@ let tributeData =
 
                                 page_1_caption: "<span id='page-1-figcaption-text'><strong><i>Friday, May 22 &nbsp;<small><i>-</i></small>&nbsp; Tuesday, May 26</i></strong></span>",
 
-                                page_2_title_1: "<span id='page-2-title-1-text'><strong><i>Winona, Minnesota</i></strong></span>",
+                                page_2_title_1: "<span id='page-2-title-1-text'><strong><i>In</i></strong></span>",
                                 
                                 page_2_title_2: "<span id='page-2-title-2-text'><strong><i>Winona, Minnesota</i></strong></span>",
 
                                 page_2_image: "images/inside-photo-1.jpg",
 
-                                page_2_caption_1: "<span id='page-2-figcaption-1-text'><strong><i>Chinese Spillway</i></strong></span>",
+                                page_2_caption_1: "<span id='page-2-figcaption-1-text'><strong><i>At</i></strong></span>",
                                 page_2_caption_2: "<span id='page-2-figcaption-2-text'><strong><i>Chinese Spillway</i></strong></span>",
                                 page_3_title_1: "<p><span class='christmas-red-color'><strong><i>Recomended Hotels</i></strong></span></p>",
 
@@ -46,11 +46,11 @@ let tributeData =
                                 page_3_title_3: "<p><span class='christmas-red-color'><strong><i>Family Excursions</i></strong></span></p>",                           
                                 page_3_content_1: "<ul><li><strong>Winona Super 8</strong></li><li><strong>Winona Holiday Inn Express</strong></li><li><strong>Winona Days Inn</strong></li></ul><br>",
 
-                                page_3_content_2: "<ul><li><strong>Fishing</strong> (Winona Chinese Spillway and Red Wing Colvill Park)</li><li><strong>Prizes</strong> (Most Fish, Biggest Fish) <span class='christmas-red-color'><strong><i>*</i></strong></span></li><li><strong>Shopping</strong> (Walmart, Target, Fleet Farm)</li><li><strong>Fast Food</strong> (KFC, Arby's, TACO BELL, Burger King)</li><li><strong>Sports</strong> (Basketball, Softball, Volley Ball, Horse Shoes)</li><li><strong>Prizes</strong> (Free Throws, Home Runs) <span class='christmas-red-color'><strong><i>*</i></strong></span></li></ul><br>",
+                                page_3_content_2: "<ul><li><strong>Fishing</strong> (Winona Chinese Spillway and Red Wing Colvill Park)</li><li><strong>Prizes</strong> (Most Fish, Biggest Fish) <span class='christmas-red-color'><strong><small>*</small></strong></span></li><li><strong>Shopping</strong> (Walmart, Target, Fleet Farm)</li><li><strong>Fast Food</strong> (KFC, Arby's, TACO BELL, Burger King)</li><li><strong>Sports</strong> (Basketball, Softball, Volley Ball, Horse Shoes)</li><li><strong>Prizes</strong> (Free Throws, Home Runs) <span class='christmas-red-color'><strong><small>*</small></strong></span></li></ul><br>",
 
-                                page_3_content_3: "<ul><li><strong>Lake Winona Park</strong></li><li><strong>Red Wing Colvill Park</strong></li></ul><br><br><span class='christmas-red-color'><strong><i>*</i></strong></span> &nbsp;<strong><small><span class='christmas-red-color'><i>$5.00 Entry Fee</i></span></small></strong>",
+                                page_3_content_3: "<ul><li><strong>Lake Winona Park</strong></li><li><strong>Red Wing Colvill Park</strong></li></ul><br><br><span class='christmas-red-color'><strong><small>*</small></strong></span> &nbsp;<strong><small><span class='christmas-red-color'><i>$5.00 Entry Fee</i></span></small></strong>",
 
-                                page_4_qr_code: "<p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><div id='parent-photo-container'><p><strong><i>Gregory Sr and Christine</i></strong></p><img id='dad-photo' src='images/g02s06gregory.jpg'alt='Dad Photo'><img id='mom-photo' src='images/g02s07christine.jpg'alt='Mom Photo'><img id='qr-code' src='images/qr-scott-family-event.png' alt='QR Code'></img></div><div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
+                                page_4_qr_code: "<p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p>                          <span><strong><i>Gregory Sr and Christine</i></strong><span>            <div id='parent-photo-container'><img id='dad-photo' src='images/g02s06gregory.jpg'alt='Dad Photo'><img id='mom-photo' src='images/g02s07christine.jpg'alt='Mom Photo'><img id='qr-code' src='images/qr-scott-family-event.png' alt='QR Code'></img></div>                                <div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
 
                                 author_salutation: "<div class='author-signature'><p>Created By:</p><img class='author-photo' src='images/g02s06gregory.jpg' alt='Author Photo'><p><i><span class='author'>Gregory Scott Sr.</i></span></p></div>"
                             }
@@ -101,7 +101,8 @@ let tributeData =
     
     $("#page-4-content").html(tributeData[0].tributee[i].parameters.page_4_qr_code);
 
-    $("title").text("GCS " + $("#page-1-title-2").text() + " " + $("#title-2").text());
+    $("title").text("GCS " + $("#page-1-title-2").text() + " " + ". . .");
+
     $("#main-content").html(tributeData[0].tributee[i].parameters.author_salutation);
 }; // end build_tribute . . .
 
@@ -112,8 +113,11 @@ $(document).ready(() => {
     build_tribute ();
     
     $(".logo-image").attr("src","icon/favicon-red.png");
-    $(".logo-tagline-top").text("Scott Family Fishing Trip");
-    $(".logo-tagline-bot").text("Scott Family Fishing Trip");
+
+    $(".logo-tagline-top").text($("#page-1-title-2").text() + " " + ". . .");
+
+    $(".logo-tagline-bot").text($("#page-1-title-2").text() + " " + ". . .");
+
 
     $("#page").show(2000);
     $("#copyright-1").show(2500);

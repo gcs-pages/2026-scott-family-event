@@ -134,12 +134,7 @@ body {
     padding: 10px;
     margin: 25px auto;
     background-color: #ffffff;
-    background-image:   url("../images/bg-image-1.jpg");
-    background-size:    cover; 
-    background-repeat:  round;
-    background-color: #ffffff;
-    opacity: 1.0;
-    color: #ffffff;
+    color: #000000;
     border: 5px solid #FFD700;
 /*    box-shadow: 12px 12px 16px 0 rgba(256,0,0.24),0 17px 50px 0 rgba(256,0,0,0.19); */
 }
@@ -173,7 +168,6 @@ ol,ul {
 }
 
 .christmas-red-color {
-    font-size: 1.125em;
     text-shadow: 5px 5px 5px #000000;
     box-shadow: 12px 12px 16px 0 rgba(47,115,54,0.50),0 17px 50px 0 rgba(47,115,54,0.50);
     background-color: #cc0000;
@@ -194,7 +188,6 @@ ol,ul {
     padding-right: 5px;
 }
 .christmas-green-color {
-    font-size: 1.125em;
     text-shadow: 5px 5px 5px #000000;
     background-color: #2F7336;
     color: #ffffff;
@@ -264,7 +257,7 @@ li ol li:hover {
 
 #page-2-title-1 {
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 7px;
     text-align: center;
 }
 
@@ -284,7 +277,6 @@ li ol li:hover {
     text-align: center;
     margin-top: 5px;
     margin-bottom: 15px;
-    display: none;
 }
 
 #page-2-title-2-text
@@ -422,7 +414,7 @@ footer {
 #page-1-figcaption {
     text-align: center;
     margin-top: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 7px;
 }
 
 #page-1-figcaption-text {
@@ -456,7 +448,6 @@ footer {
 #page-2-figcaption-2 {
     text-align: center;
     margin-bottom: 15px;
-    display: none;
 }
 
 #page-2-figcaption-2-text {
@@ -469,11 +460,15 @@ footer {
     padding-left: 5px;
     padding-right: 5px;
 }
+.parent-photo-container {
+    
+}
 
 #dad-photo
  {
     width:  100px;
     height: 100px;
+    margin-top: 15px;
     margin-bottom: 10px;
     margin-right: 15px;
     aspect-ratio: 3 / 4;
@@ -485,10 +480,14 @@ footer {
  {
     width:  100px;
     height: 100px;
+    margin-top: 15px;
     margin-bottom: 10px;
     aspect-ratio: 3 / 4;
     box-shadow: 12px 12px 16px 0 rgba(47,115,54,0.50),0 17px 50px 0 rgba(47,115,54,0.50);
     float: left;
+}
+
+#logo-signature {
 }
 
 #qr-code
