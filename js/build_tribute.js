@@ -29,7 +29,7 @@ let tributeData =
 
                                 page_1_image: "",
 
-                                page_1_caption: "<p><strong><span class='christmas-red-color'>Dates:</span></strong></p><ol><li><span class='page-1-figcaption-text'><strong>Friday, May 22 &nbsp;<small><i>thru</i></small>&nbsp; Tuesday, May 26</i></strong></span></li><li><span class='page-1-figcaption-text'><strong>Friday, May 29 &nbsp;<small><i>thru</i></small>&nbsp; Tuesday, June 02</i></strong></span></li></ol>",
+                                page_1_caption: "<p><strong><span class='christmas-red-color'><small>Possible Dates:</small></span></strong></p><ol><li><span class='page-1-figcaption-text'><strong>Friday, May 22 &nbsp;<small><i>thru</i></small>&nbsp; Tuesday, May 26</i></strong></span></li><li><span class='page-1-figcaption-text'><strong>Friday, May 29 &nbsp;<small><i>thru</i></small>&nbsp; Tuesday, June 02</i></strong></span></li></ol>",
 
                                 page_2_title_1: "<span id='page-2-title-1-text'><strong><i>City?</i></strong></span>",
                                 

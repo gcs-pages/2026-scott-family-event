@@ -197,7 +197,7 @@ ol,ul {
 
 ol {
     margin-left: 0px;
-    list-style:disc;
+    list-style:none;
     list-style-position: inside;
     color: #ffffff;
 }
