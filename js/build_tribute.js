@@ -50,7 +50,7 @@ let tributeData =
 
                                 page_3_content_3: "<ul><li><strong>Onalaska Spillway</li><li><strong>Winona Lake Park</strong></li><li><strong>Winona Galvin Heights (scenic overlook)</strong></li><li><strong>Red Wing Colvill Park</strong></li></ul><br><br><span class='christmas-red-color'><strong><small>*</small></strong></span> &nbsp;<strong><small><span class='christmas-red-color'><i>$5.00 Entry Fee</i></span></small></strong><br><br>",
 
-                                page_4_qr_code: "<p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p>                          <span><strong><i>Gregory Sr and Christine</i></strong><span>            <div id='parent-photo-container'><img id='dad-photo' src='images/g02s06gregory.jpg'alt='Dad Photo'><img id='mom-photo' src='images/g02s07christine.jpg'alt='Mom Photo'><img id='qr-code' src='images/qr-scott-family-event.png' alt='QR Code'></img></div>                       <div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
+                                page_4_qr_code: "<p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p><p class=dummy-content>lorem ipsum</p>                          <span><strong><i>Gregory Sr and Christine</i></strong></span><div id='parent-photo-container'><img id='dad-photo' src='images/g02s06gregory.jpg'alt='Dad Photo'><img id='mom-photo' src='images/g02s07christine.jpg'alt='Mom Photo'><img id='qr-code' src='images/qr-scott-family-event.png' alt='QR Code'></img></div><div class='logo-container'><ol class='logo-list'><li class='logo-li-item'><a href='' ><img class='logo-image'></a></li><li class='logo-li-item logo-tagline-bot'></li></ol></div>",
 
                                 author_salutation: "<div class='author-signature'><p>Created By:</p><img class='author-photo' src='images/g02s06gregory.jpg' alt='Author Photo'><p><i><span class='author'>Gregory Scott Sr.</i></span></p></div>"
                             }
@@ -101,7 +101,7 @@ let tributeData =
     
     $("#page-4-content").html(tributeData[0].tributee[i].parameters.page_4_qr_code);
 
-    $("title").text("GCS " + $("#page-1-title-2").text() + " " + ". . .");
+    $("title").text("GCS " + $("#page-1-title-2").text() + " " + "Flyer . . .");
 
     $("#main-content").html(tributeData[0].tributee[i].parameters.author_salutation);
 }; // end build_tribute . . .
@@ -109,15 +109,19 @@ let tributeData =
 $(document).ready(() => {
     var today = new Date();
     $("#copyright-1").html("&copy; Copyright " + today.getFullYear());
-
     build_tribute ();
-    
+
+/*--------------*/
+/*- Build Logo -*/
+/*--------------*/    
     $(".logo-image").attr("src","icon/favicon-red.png");
 
-    $(".logo-tagline-top").text($("#page-1-title-2").text() + " " + ". . .");
+    $(".logo-tagline-top").text($("#page-1-title-2").text() + " " + "Flyer . . .");
 
-    $(".logo-tagline-bot").text($("#page-1-title-2").text() + " " + ". . .");
-
+    $(".logo-tagline-bot").text($("#page-1-title-2").text() + " " + "Flyer . . .");
+/*--------------*/
+/*- Build Logo -*/
+/*--------------*/
 
     $("#page").show(2000);
     $("#copyright-1").show(2500);
