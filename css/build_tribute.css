@@ -196,8 +196,9 @@ ol,ul {
 }
 
 ol {
-    padding-left: 0px;
-    list-style: none;
+    margin-left: 0px;
+    list-style: inside;
+    color: #ffffff;
 }
 
 li {
@@ -417,12 +418,12 @@ footer {
     margin-bottom: 7px;
 }
 
-#page-1-figcaption-text {
+.page-1-figcaption-text {
     text-shadow: 5px 5px 5px #000000;
     box-shadow: 12px 12px 16px 0 rgba(47,115,54,0.50),0 17px 50px 0 rgba(47,115,54,0.50);
     background: #cc0000;
     color: #ffffff;
-    font-size: 1.125em;
+    font-size: 1em;
     font-style: italic;
     padding-left: 5px;
     padding-right: 5px;

@@ -29,7 +29,7 @@ let tributeData =
 
                                 page_1_image: "",
 
-                                page_1_caption: "<span id='page-1-figcaption-text'><strong><i>Friday, May 22 &nbsp;<small><i>-</i></small>&nbsp; Tuesday, May 26</i></strong></span>",
+                                page_1_caption: "<ol><li><span class='page-1-figcaption-text'><strong>Friday, May 22 &nbsp;<small><i>thru</i></small>&nbsp; Tuesday, May 26</i></strong></span></li><li><span class='page-1-figcaption-text'><strong>Friday, May 29 &nbsp;<small><i>thru</i></small>&nbsp; Tuesday, June 02</i></strong></span></li></ol>",
 
                                 page_2_title_1: "<span id='page-2-title-1-text'><strong><i>In</i></strong></span>",
                                 
@@ -46,7 +46,7 @@ let tributeData =
                                 page_3_title_3: "<p><span class='christmas-red-color'><strong><i>Family Excursions</i></strong></span></p>",                           
                                 page_3_content_1: "<ul><li><strong>Winona Super 8</strong></li><li><strong>Winona Holiday Inn Express</strong></li><li><strong>Winona Days Inn</strong></li></ul><br>",
 
-                                page_3_content_2: "<ul><li><strong>Fishing</strong> (Winona Chinese Spillway and Red Wing Colvill Park)</li><li><strong>Prizes</strong> (Most Fish, Biggest Fish) <span class='christmas-red-color'><strong><small>*</small></strong></span></li><li><strong>Shopping</strong> (Walmart, Target, Fleet Farm)</li><li><strong>Fast Food</strong> (KFC, Arby's, TACO BELL, Burger King)</li><li><strong>Sports</strong> (Basketball, Softball, Volley Ball, Horse Shoes)</li><li><strong>Prizes</strong> (Free Throws, Home Runs) <span class='christmas-red-color'><strong><small>*</small></strong></span></li></ul><br>",
+                                page_3_content_2: "<ul><li><strong>Fishing</strong> (Winona Chinese Spillway and Red Wing Colvill Park)</li><li><strong>Prizes</strong> (Most Fish <small>and</small> Biggest Fish) <span class='christmas-red-color'><strong><small>*</small></strong></span></li><li><strong>Shopping</strong> (Walmart, Target, Fleet Farm)</li><li><strong>Fast Food</strong> (KFC, Arby's, TACO BELL, Burger King)</li><li><strong>Sports</strong> (Basketball, Softball, Volley Ball, Horse Shoes)</li><li><strong>Prizes</strong> (Free Throws <small>and</small> Home Runs) <span class='christmas-red-color'><strong><small>*</small></strong></span></li></ul><br>",
 
                                 page_3_content_3: "<ul><li><strong>Lake Winona Park</strong></li><li><strong>Red Wing Colvill Park</strong></li></ul><br><br><span class='christmas-red-color'><strong><small>*</small></strong></span> &nbsp;<strong><small><span class='christmas-red-color'><i>$5.00 Entry Fee</i></span></small></strong>",
 
