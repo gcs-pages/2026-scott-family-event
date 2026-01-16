@@ -35,7 +35,7 @@ let tributeData =
                                 
                                 page_2_title_2: "<span id='page-2-title-2-text'><strong><i>Winona, Minnesota</i></strong></span>",
 
-                                page_2_image: "images/inside-photo-2.jpg",
+                                page_2_image: "images/inside-photo-1.jpg",
 
                                 page_2_caption_1: "<span id='page-2-figcaption-1-text'><strong><i>Spot?</i></strong></span>",
                                 page_2_caption_2: "<span id='page-2-figcaption-2-text'><strong><i>Chinese Spillway</i></strong></span>",
