@@ -45,24 +45,24 @@ a {
     margin-top: 5px;
     clear: left;
  }
-
  .logo-list {
      list-style-type: none;
      margin-left: 0px;
      margin-top: 5px;
      margin-bottom: 5px;
+     padding: 0px;
  }
  .logo-li-item {
      padding-bottom: .25em;
 /*   margin-top:  .25em; */
      margin-bottom:  .0em;
+     float: left;
  }
  .logo-image {
      width: 35px;
      margin-right: 5px;
      border: 1px solid #d5d5d5;
      aspect-ratio: 4/3;
-     float: left;
  }
  .logo-tagline-top {
      color: #ffffff;
@@ -70,7 +70,6 @@ a {
      font-family: Verdana, Arial, Helvetica, sans-serif;
      font-style: italic;
  }
-
  .logo-tagline-bot {
      color: #000000;
      font-size: 1em;
@@ -99,6 +98,7 @@ body {
     background-color: #000000;
     color: #ffffff;
     display: none;
+    clear: left;
 }
 #tribute-display {
     margin: 0 auto;
